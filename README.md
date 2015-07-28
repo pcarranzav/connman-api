@@ -23,6 +23,7 @@ Credits
 ---
 Original module developed by Fred Chien <<fred@mandice.com>> @ [Mandice Company](http://www.mandice.com/).<br/>
 Improved by [Peter Uithoven](http://github.com/peteruithoven/) @ [Doodle3D](http://doodle3d.com/)
+This fork now maintained by [Pablo Carranza](http://github.com/pcarranzav)
 
 License
 ---

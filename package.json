@@ -1,7 +1,7 @@
 {
-  "name": "connman-api",
+  "name": "connman-api-resin",
   "version": "0.2.3",
-  "description": "Connman (Opensource connection manager) client",
+  "description": "Connman (Opensource connection manager) client - resin.io version",
   "keywords": [
     "internet",
     "connman",
@@ -11,12 +11,15 @@
     "network",
     "api"
   ],
-  "homepage": "https://github.com/Doodle3D/connman-api",
+  "homepage": "https://github.com/pcarranzav/connman-api",
   "author": {
-    "name": "Peter Uithoven",
-    "email": "peter@peteruithoven.nl"
+    "name": "Pablo Carranza",
+    "email": "pablo@resin.io"
   },
   "contributors": [{
+    "name": "Peter Uithoven",
+    "email": "peter@peteruithoven.nl"
+  },{
     "name": "Fred Chien(錢逢祥)",
     "email": "fred@mandice.com",
     "web": "http://www.mandice.com/"
@@ -24,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Doodle3D/connman-api.git"
+    "url": "git@github.com:pcarranzav/connman-api.git"
   },
   "directories": {
     "tests": "lib"
