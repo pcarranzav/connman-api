@@ -1,5 +1,5 @@
 {
-  "name": "connman-api",
+  "name": "connman-api-resin",
   "version": "0.3.3",
   "description": "Connman (Opensource connection manager) client",
   "keywords": [
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "async": "~0.2.9",
-    "dbus": "^0.2.12",
+    "dbus": "0.2.12",
     "debug": "^2.1.1"
   },
   "main": "./lib/connman"
